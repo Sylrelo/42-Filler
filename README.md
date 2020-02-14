@@ -20,8 +20,6 @@ Si l’une deces conditions n’est pas remplie, la partie s’arrête.
 **Librairies autorisée** :
 >- Libft
 
-**Tout les appels systèmes sont autorisé**
-
 ## Installation
 ````bash
 git clone https://github.com/Sylrelo/42-Filler.git
